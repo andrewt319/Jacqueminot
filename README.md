@@ -1,6 +1,6 @@
 # Jacqueminot
 
-## This is the frontend client for the Psi Pledge Class Build Project Application, Jacqueminot.
+## This is the frontend client for Jacqueminot.
 
 #### In order to launch the client, use the following procedure:
 - Clone the git repository onto your computer using git clone
